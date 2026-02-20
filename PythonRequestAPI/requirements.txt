@@ -1,0 +1,13 @@
+requests
+jsonpath-ng
+lxml
+jsonschema
+google-auth
+faker
+pytest
+pytest-ordering
+pytest-dependency
+jsons
+selenium
+pandas
+matplotlib
